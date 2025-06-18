@@ -92,7 +92,7 @@ This will launch the app at:
 ## 🖼️ Screenshots
 
 > Landing Page  
-![Landing Page](C:\saas-landing-page\images\Screenshot 2025-06-17 121438.png)
+(C:\saas-landing-page\images\Screenshot 2025-06-17 121438.png)
 
 > Verification Email  
 ![Email Screenshot](C:\saas-landing-page\images\Screenshot 2025-06-17 121549.png)
