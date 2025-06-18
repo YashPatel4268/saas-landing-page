@@ -95,7 +95,7 @@ This will launch the app at:
 ![Landing Page](https://github.com/user-attachments/assets/316b2b2f-4bce-447d-9ae8-842bf20293f4)
 
 > Verification Email  
-![Email Screenshot](<../images/Screenshot 2025-06-17 121549.png>)
+![Email Screenshot](https://github.com/user-attachments/assets/8d0f4393-e02f-42b6-8ed5-7a73ff3c01f5)
 
 > Success Page  
 ![Success Page](<../images/Screenshot 2025-06-17 121611.png>)
