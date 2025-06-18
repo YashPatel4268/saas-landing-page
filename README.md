@@ -98,7 +98,8 @@ This will launch the app at:
 ![Email Screenshot](https://github.com/user-attachments/assets/8d0f4393-e02f-42b6-8ed5-7a73ff3c01f5)
 
 > Success Page  
-![Success Page](<../images/Screenshot 2025-06-17 121611.png>)
+![Success Page](https://github.com/user-attachments/assets/ab636ca6-dc5e-4025-910c-b14307b86a3b)
+
 
 
 ## 🧑‍💻 Developed By
